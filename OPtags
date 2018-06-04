@@ -1,0 +1,239 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+AN1	E:\upww\Topics\House\Libs\ExternalLib\Include\basicdevices.h	64;"	kind:d	line:64
+AN2	E:\upww\Topics\House\Libs\ExternalLib\Include\basicdevices.h	65;"	kind:d	line:65
+AN3	E:\upww\Topics\House\Libs\ExternalLib\Include\basicdevices.h	66;"	kind:d	line:66
+AN_PORTS	E:\upww\Topics\House\Libs\ExternalLib\Include\groveboard.h	59;"	kind:d	line:59
+AN_TYPE	E:\upww\Topics\House\Libs\ExternalLib\Include\groveinterfaces.h	60;"	kind:d	line:60
+An_i	E:\upww\Topics\House\Libs\ExternalLib\analog_in.c	/^const void *An_i = &_An_i;$/;"	kind:v	line:105
+An_i	E:\upww\Topics\House\Libs\ExternalLib\analog_in.c	/^struct An_i$/;"	kind:s	line:55	file:
+An_i_attach	E:\upww\Topics\House\Libs\ExternalLib\analog_in.c	/^static void *An_i_attach (void * _board,void *_sensor,int portnumb)$/;"	kind:f	line:78	file:
+An_i_ctor	E:\upww\Topics\House\Libs\ExternalLib\analog_in.c	/^static void *An_i_ctor (void * _self, va_list *app)$/;"	kind:f	line:61	file:
+An_i_dtor	E:\upww\Topics\House\Libs\ExternalLib\analog_in.c	/^static void An_i_dtor (void * _sensor)$/;"	kind:f	line:68	file:
+An_i_getan_i	E:\upww\Topics\House\Libs\ExternalLib\analog_in.c	/^static float An_i_getan_i (void * _self,va_list *app)$/;"	kind:f	line:87	file:
+BASICDEVICES_H	E:\upww\Topics\House\Libs\ExternalLib\Include\basicdevices.h	50;"	kind:d	line:50
+BOTH_SHARED	E:\upww\Topics\House\Libs\ExternalLib\Include\groveinterfaces.h	72;"	kind:d	line:72
+Board	E:\upww\Topics\House\Libs\ExternalLib\groveboard.c	/^const void *Board = &_Board;$/;"	kind:v	line:335
+Board	E:\upww\Topics\House\Libs\ExternalLib\groveboard.c	/^struct Board$/;"	kind:s	line:78	file:
+BoardClass	E:\upww\Topics\House\Libs\ExternalLib\Include\grovelib.h	/^struct BoardClass$/;"	kind:s	line:78
+Board_ctor	E:\upww\Topics\House\Libs\ExternalLib\groveboard.c	/^static void *Board_ctor (void * _self, va_list *app)$/;"	kind:f	line:95	file:
+D3VR_TYPE	E:\upww\Topics\House\Libs\ExternalLib\Include\groveinterfaces.h	56;"	kind:d	line:56
+D3V_TYPE	E:\upww\Topics\House\Libs\ExternalLib\Include\groveinterfaces.h	57;"	kind:d	line:57
+D5VR_TYPE	E:\upww\Topics\House\Libs\ExternalLib\Include\groveinterfaces.h	58;"	kind:d	line:58
+D5V_TYPE	E:\upww\Topics\House\Libs\ExternalLib\Include\groveinterfaces.h	59;"	kind:d	line:59
+DEBUG_PORTS	E:\upww\Topics\House\Libs\ExternalLib\Include\groveboard.h	61;"	kind:d	line:61
+DIG1	E:\upww\Topics\House\Libs\ExternalLib\Include\basicdevices.h	60;"	kind:d	line:60
+DIG2	E:\upww\Topics\House\Libs\ExternalLib\Include\basicdevices.h	61;"	kind:d	line:61
+DIG3	E:\upww\Topics\House\Libs\ExternalLib\Include\basicdevices.h	62;"	kind:d	line:62
+DIG4	E:\upww\Topics\House\Libs\ExternalLib\Include\basicdevices.h	63;"	kind:d	line:63
+DIG_PORTS	E:\upww\Topics\House\Libs\ExternalLib\Include\groveboard.h	62;"	kind:d	line:62
+DOUBLE_PORT	E:\upww\Topics\House\Libs\ExternalLib\Include\groveinterfaces.h	66;"	kind:d	line:66
+DUTY	E:\upww\Topics\House\Libs\ExternalLib\Include\basicdevices.h	73;"	kind:d	line:73
+Dig_io	E:\upww\Topics\House\Libs\ExternalLib\digital_io.c	/^const void *Dig_io = &_Dig_io;$/;"	kind:v	line:166
+Dig_io	E:\upww\Topics\House\Libs\ExternalLib\digital_io.c	/^struct Dig_io$/;"	kind:s	line:55	file:
+Dig_io_attach	E:\upww\Topics\House\Libs\ExternalLib\digital_io.c	/^static void* Dig_io_attach (void * _board,void *_sensor,int n)$/;"	kind:f	line:107	file:
+Dig_io_ctor	E:\upww\Topics\House\Libs\ExternalLib\digital_io.c	/^static void *Dig_io_ctor (void * _self, va_list *app)$/;"	kind:f	line:66	file:
+Dig_io_dtor	E:\upww\Topics\House\Libs\ExternalLib\digital_io.c	/^static void Dig_io_dtor (void * _sensor)$/;"	kind:f	line:91	file:
+Dig_io_get_dig_io	E:\upww\Topics\House\Libs\ExternalLib\digital_io.c	/^static float Dig_io_get_dig_io (void * _self,va_list *app)$/;"	kind:f	line:148	file:
+Dig_io_set_dig_io	E:\upww\Topics\House\Libs\ExternalLib\digital_io.c	/^static int Dig_io_set_dig_io (void * _self,va_list *app)$/;"	kind:f	line:118	file:
+ERR_PORT_ALREADY_USED	E:\upww\Topics\House\Libs\ExternalLib\Include\groveinterfaces.h	77;"	kind:d	line:77
+ERR_WRONG_PORTNUM	E:\upww\Topics\House\Libs\ExternalLib\Include\groveinterfaces.h	76;"	kind:d	line:76
+ERR_WRONG_PORT_TYPE	E:\upww\Topics\House\Libs\ExternalLib\Include\groveinterfaces.h	78;"	kind:d	line:78
+FREQUENCY	E:\upww\Topics\House\Libs\ExternalLib\Include\basicdevices.h	72;"	kind:d	line:72
+FlyportTask	E:\upww\Topics\House\taskFlyport.c	/^void FlyportTask()$/;"	kind:f	line:258
+GROVEBOARD_H	E:\upww\Topics\House\Libs\ExternalLib\Include\groveboard.h	50;"	kind:d	line:50
+GROVEINTERFACES_H	E:\upww\Topics\House\Libs\ExternalLib\Include\groveinterfaces.h	50;"	kind:d	line:50
+GROVELIB_H	E:\upww\Topics\House\Libs\ExternalLib\Include\grovelib.h	49;"	kind:d	line:49
+GroveNest	E:\upww\Topics\House\Libs\ExternalLib\Include\groveboard.h	55;"	kind:d	line:55
+GrovePort	E:\upww\Topics\House\Libs\ExternalLib\Include\groveinterfaces.h	/^}GrovePort;$/;"	kind:t	line:92	typeref:struct:__anon1
+GroveStarted	E:\upww\Topics\House\Libs\ExternalLib\groveboard.c	/^BOOL GroveStarted = FALSE;$/;"	kind:v	line:92
+I2C	E:\upww\Topics\House\Libs\ExternalLib\Include\basicdevices.h	67;"	kind:d	line:67
+I2C_PORTS	E:\upww\Topics\House\Libs\ExternalLib\Include\groveboard.h	60;"	kind:d	line:60
+I2C_TYPE	E:\upww\Topics\House\Libs\ExternalLib\Include\groveinterfaces.h	61;"	kind:d	line:61
+INIT_CORRECT	E:\upww\Topics\House\Libs\ExternalLib\Include\groveinterfaces.h	75;"	kind:d	line:75
+Interface	E:\upww\Topics\House\Libs\ExternalLib\Include\groveboard.h	/^struct Interface$/;"	kind:s	line:65
+NOT_SHARED	E:\upww\Topics\House\Libs\ExternalLib\Include\groveinterfaces.h	69;"	kind:d	line:69
+NOT_USED	E:\upww\Topics\House\Libs\ExternalLib\Include\groveinterfaces.h	64;"	kind:d	line:64
+OnBusy	E:\upww\Topics\House\GSM_Events.c	/^void OnBusy(char* phoneNumber)$/;"	kind:f	line:32
+OnError	E:\upww\Topics\House\GSM_Events.c	/^void OnError(int error, int errorNumber)$/;"	kind:f	line:70
+OnLowPowerDisabled	E:\upww\Topics\House\GSM_Events.c	/^void OnLowPowerDisabled()$/;"	kind:f	line:113
+OnNoCarrier	E:\upww\Topics\House\GSM_Events.c	/^void OnNoCarrier(char* phoneNumber)$/;"	kind:f	line:20
+OnRegistration	E:\upww\Topics\House\GSM_Events.c	/^void OnRegistration(BYTE Status)$/;"	kind:f	line:83
+OnRing	E:\upww\Topics\House\GSM_Events.c	/^void OnRing(char* phoneNumber)$/;"	kind:f	line:8
+OnSMSReceived	E:\upww\Topics\House\GSM_Events.c	/^void OnSMSReceived(BYTE memtype, int index)$/;"	kind:f	line:43
+OnSMSSentReport	E:\upww\Topics\House\GSM_Events.c	/^void OnSMSSentReport(int msgreference, int msgreport)$/;"	kind:f	line:58
+P1_SHARED	E:\upww\Topics\House\Libs\ExternalLib\Include\groveinterfaces.h	70;"	kind:d	line:70
+P2_SHARED	E:\upww\Topics\House\Libs\ExternalLib\Include\groveinterfaces.h	71;"	kind:d	line:71
+PWM	E:\upww\Topics\House\Libs\ExternalLib\Include\basicdevices.h	71;"	kind:d	line:71
+Pin1	E:\upww\Topics\House\Libs\ExternalLib\Include\groveinterfaces.h	/^	BYTE Pin1;			\/\/ 	Pin1 number - Association with Flyport pin number (analog channel for analog ports)$/;"	kind:m	line:87	struct:__anon1	access:public
+Pin2	E:\upww\Topics\House\Libs\ExternalLib\Include\groveinterfaces.h	/^	BYTE Pin2;			\/\/	Pin2 number - Association with Flyport pin number (analog channel for analog ports)$/;"	kind:m	line:88	struct:__anon1	access:public
+SINGLE_PORT	E:\upww\Topics\House\Libs\ExternalLib\Include\groveinterfaces.h	65;"	kind:d	line:65
+SPI	E:\upww\Topics\House\Libs\ExternalLib\Include\basicdevices.h	68;"	kind:d	line:68
+Send	E:\upww\Topics\House\taskFlyport.c	/^void Send()$/;"	kind:f	line:25
+SensorClass	E:\upww\Topics\House\Libs\ExternalLib\Include\grovelib.h	/^struct SensorClass$/;"	kind:s	line:67
+TIMEOUT	E:\upww\Topics\House\Libs\ExternalLib\Include\basicdevices.h	75;"	kind:d	line:75
+Type	E:\upww\Topics\House\Libs\ExternalLib\Include\groveinterfaces.h	/^	BYTE Type;			\/\/	Port type - Type of the port, as in the upper defines$/;"	kind:m	line:90	struct:__anon1	access:public
+Use	E:\upww\Topics\House\Libs\ExternalLib\Include\groveinterfaces.h	/^	BYTE Use;			\/\/	Port usage - Indicates if it's used as single or double sensor, or not used$/;"	kind:m	line:89	struct:__anon1	access:public
+_An_i	E:\upww\Topics\House\Libs\ExternalLib\analog_in.c	/^static const struct SensorClass _An_i =$/;"	kind:v	line:94	typeref:struct:SensorClass	file:
+_Board	E:\upww\Topics\House\Libs\ExternalLib\groveboard.c	/^static const struct BoardClass _Board =$/;"	kind:v	line:327	typeref:struct:BoardClass	file:
+_Dig_io	E:\upww\Topics\House\Libs\ExternalLib\digital_io.c	/^static const struct SensorClass _Dig_io =$/;"	kind:v	line:155	typeref:struct:SensorClass	file:
+a	E:\upww\Topics\House\taskFlyport.c	/^		int a=tag-1;$/;"	kind:l	line:321
+actionState	E:\upww\Topics\House\taskFlyport.c	/^	int actionState = 1;$/;"	kind:l	line:57
+aninext	E:\upww\Topics\House\Libs\ExternalLib\groveboard.c	/^	struct Interface *aninext;$/;"	kind:m	line:87	struct:Board	typeref:struct:Board::Interface	file:	access:public
+anistart	E:\upww\Topics\House\Libs\ExternalLib\groveboard.c	/^	struct Interface *anistart;$/;"	kind:m	line:86	struct:Board	typeref:struct:Board::Interface	file:	access:public
+ans	E:\upww\Topics\House\taskFlyport.c	/^double ans[2];$/;"	kind:v	line:19
+ap	E:\upww\Topics\House\Libs\ExternalLib\grovelib.c	/^	va_list ap;$/;"	kind:l	line:114
+ap	E:\upww\Topics\House\Libs\ExternalLib\grovelib.c	/^	va_list ap;$/;"	kind:l	line:126
+ap	E:\upww\Topics\House\Libs\ExternalLib\grovelib.c	/^	va_list ap;$/;"	kind:l	line:136
+ap	E:\upww\Topics\House\Libs\ExternalLib\grovelib.c	/^	va_list ap;$/;"	kind:l	line:65
+attach	E:\upww\Topics\House\Libs\ExternalLib\Include\grovelib.h	/^	int (*attach)  (void *,void *,int,int);$/;"	kind:m	line:83	struct:BoardClass	access:public
+attach	E:\upww\Topics\House\Libs\ExternalLib\Include\grovelib.h	/^	void *(*attach) (void *,void *,int);$/;"	kind:m	line:72	struct:SensorClass	access:public
+attachSensorToAnBus	E:\upww\Topics\House\Libs\ExternalLib\analog_in.c	/^struct Interface *	attachSensorToAnBus (void *,int);$/;"	kind:p	line:53	file:
+attachSensorToAnBus	E:\upww\Topics\House\Libs\ExternalLib\groveboard.c	/^struct Interface *	attachSensorToAnBus (void *_board,int n)$/;"	kind:f	line:226
+attachSensorToDigioBus	E:\upww\Topics\House\Libs\ExternalLib\digital_io.c	/^struct Interface *attachSensorToDigioBus(void *,int,int);$/;"	kind:p	line:53	file:
+attachSensorToDigioBus	E:\upww\Topics\House\Libs\ExternalLib\groveboard.c	/^struct Interface *attachSensorToDigioBus(void *_board,int n,int type)$/;"	kind:f	line:168
+attachSensorToI2CBus	E:\upww\Topics\House\Libs\ExternalLib\groveboard.c	/^struct Interface *attachSensorToI2CBus(void *_board,int i2cbus,int add)$/;"	kind:f	line:130
+attachSensorToUartBus	E:\upww\Topics\House\Libs\ExternalLib\groveboard.c	/^struct Interface *attachSensorToUartBus(void *_board,int port,int speed,BYTE module,BYTE interf)$/;"	kind:f	line:273
+attachToBoard	E:\upww\Topics\House\Libs\ExternalLib\Include\grovelib.h	/^int attachToBoard(void *,void *,int);$/;"	kind:p	line:61
+attachToBoard	E:\upww\Topics\House\Libs\ExternalLib\grovelib.c	/^int attachToBoard(void *board,void *sensor,int numb)$/;"	kind:f	line:97
+b	E:\upww\Topics\House\taskFlyport.c	/^		int b;$/;"	kind:l	line:322
+board	E:\upww\Topics\House\taskFlyport.c	/^	void *board = new(GroveNest);$/;"	kind:l	line:281
+boardType	E:\upww\Topics\House\Libs\ExternalLib\groveboard.c	/^	int boardType;$/;"	kind:m	line:81	struct:Board	file:	access:public
+buf	E:\upww\Topics\House\GSM_Events.c	/^	char buf[20];$/;"	kind:l	line:11
+buf	E:\upww\Topics\House\GSM_Events.c	/^	char buf[20];$/;"	kind:l	line:23
+buf	E:\upww\Topics\House\GSM_Events.c	/^	char buf[20];$/;"	kind:l	line:35
+buf	E:\upww\Topics\House\GSM_Events.c	/^	char buf[30];$/;"	kind:l	line:61
+class	E:\upww\Topics\House\Libs\ExternalLib\analog_in.c	/^	const void *class;$/;"	kind:m	line:57	struct:An_i	file:	access:public
+class	E:\upww\Topics\House\Libs\ExternalLib\digital_io.c	/^	const void *class;$/;"	kind:m	line:57	struct:Dig_io	file:	access:public
+class	E:\upww\Topics\House\Libs\ExternalLib\groveboard.c	/^	const void *class;$/;"	kind:m	line:80	struct:Board	file:	access:public
+class	E:\upww\Topics\House\Libs\ExternalLib\grovelib.c	/^	const struct BoardClass *class = _class;$/;"	kind:l	line:161
+class	E:\upww\Topics\House\Libs\ExternalLib\grovelib.c	/^	const struct SensorClass *class = _class;$/;"	kind:l	line:183
+config	E:\upww\Topics\House\Libs\ExternalLib\Include\grovelib.h	/^	int (*config) (void *,va_list *);$/;"	kind:m	line:73	struct:SensorClass	access:public
+configure	E:\upww\Topics\House\Libs\ExternalLib\Include\grovelib.h	/^int configure(void *,...);$/;"	kind:p	line:62
+configure	E:\upww\Topics\House\Libs\ExternalLib\grovelib.c	/^int configure(void *self, ...)$/;"	kind:f	line:112
+cp	E:\upww\Topics\House\Libs\ExternalLib\grovelib.c	/^	const struct SensorClass **cp = self;$/;"	kind:l	line:116
+cp	E:\upww\Topics\House\Libs\ExternalLib\grovelib.c	/^	const struct SensorClass **cp = self;$/;"	kind:l	line:128
+cp	E:\upww\Topics\House\Libs\ExternalLib\grovelib.c	/^	const struct SensorClass **cp = self;$/;"	kind:l	line:138
+ctor	E:\upww\Topics\House\Libs\ExternalLib\Include\grovelib.h	/^	void *(*ctor) (void *,va_list *);$/;"	kind:m	line:70	struct:SensorClass	access:public
+ctor	E:\upww\Topics\House\Libs\ExternalLib\Include\grovelib.h	/^	void *(*ctor) (void *,va_list *);$/;"	kind:m	line:81	struct:BoardClass	access:public
+data	E:\upww\Topics\House\Libs\ExternalLib\digital_io.c	/^			float data = va_arg(*app, const float);$/;"	kind:l	line:135
+data	E:\upww\Topics\House\Libs\ExternalLib\i2c_devices.c	/^	BYTE data = I2CRead(1);$/;"	kind:l	line:75
+delaytime	E:\upww\Topics\House\taskFlyport.c	/^int delaytime = 1;$/;"	kind:v	line:23
+delet_	E:\upww\Topics\House\Libs\ExternalLib\Include\grovelib.h	/^void delet_(void **);$/;"	kind:p	line:60
+delet_	E:\upww\Topics\House\Libs\ExternalLib\grovelib.c	/^void delet_(void **_self)$/;"	kind:f	line:91
+delete	E:\upww\Topics\House\Libs\ExternalLib\Include\grovelib.h	56;"	kind:d	line:56
+delete_	E:\upww\Topics\House\Libs\ExternalLib\Include\grovelib.h	/^void delete_(void *);$/;"	kind:p	line:59
+delete_	E:\upww\Topics\House\Libs\ExternalLib\grovelib.c	/^void delete_(void *_self)$/;"	kind:f	line:81
+dionext	E:\upww\Topics\House\Libs\ExternalLib\groveboard.c	/^	struct Interface *dionext;$/;"	kind:m	line:85	struct:Board	typeref:struct:Board::Interface	file:	access:public
+diostart	E:\upww\Topics\House\Libs\ExternalLib\groveboard.c	/^	struct Interface *diostart;$/;"	kind:m	line:84	struct:Board	typeref:struct:Board::Interface	file:	access:public
+dtor	E:\upww\Topics\House\Libs\ExternalLib\Include\grovelib.h	/^	void (*dtor) (void *);$/;"	kind:m	line:71	struct:SensorClass	access:public
+dtor	E:\upww\Topics\House\Libs\ExternalLib\Include\grovelib.h	/^	void *(*dtor) (void *);$/;"	kind:m	line:82	struct:BoardClass	access:public
+dtor	E:\upww\Topics\House\Libs\ExternalLib\grovelib.c	/^		(*self)->dtor(self);$/;"	kind:p	line:86	file:
+elc	E:\upww\Topics\House\taskFlyport.c	/^double elc;$/;"	kind:v	line:14
+elc2	E:\upww\Topics\House\taskFlyport.c	/^double elc2;$/;"	kind:v	line:17
+flag	E:\upww\Topics\House\Libs\ExternalLib\grovelib.c	/^unsigned char flag;$/;"	kind:v	line:60
+flag	E:\upww\Topics\House\taskFlyport.c	/^		int flag=1;$/;"	kind:l	line:292
+gName	E:\upww\Topics\House\Libs\ExternalLib\Include\grovelib.h	/^	char *(*gName) (const void *);$/;"	kind:m	line:85	struct:BoardClass	access:public
+g_I2CSCL	E:\upww\Topics\House\Libs\ExternalLib\groveboard.c	/^BYTE g_I2CSCL[] = { p1 };$/;"	kind:v	line:70
+g_I2CSDA	E:\upww\Topics\House\Libs\ExternalLib\groveboard.c	/^BYTE g_I2CSDA[] ={ p3 }; $/;"	kind:v	line:71
+g_MISO	E:\upww\Topics\House\Libs\ExternalLib\groveboard.c	/^BYTE g_MISO[] ={ p7}; $/;"	kind:v	line:66
+g_MOSI	E:\upww\Topics\House\Libs\ExternalLib\groveboard.c	/^BYTE g_MOSI[] = { p17 };$/;"	kind:v	line:67
+g_SCK	E:\upww\Topics\House\Libs\ExternalLib\groveboard.c	/^BYTE g_SCK[] = { p18 }; $/;"	kind:v	line:65
+g_SPI_CS	E:\upww\Topics\House\Libs\ExternalLib\groveboard.c	/^BYTE g_SPI_CS[] ={ p8 }; $/;"	kind:v	line:68
+g_an	E:\upww\Topics\House\Libs\ExternalLib\groveboard.c	/^BYTE g_an[] ={ 1, 2, 3 }; $/;"	kind:v	line:73
+g_ashared	E:\upww\Topics\House\Libs\ExternalLib\groveboard.c	/^BYTE g_ashared[] = { NOT_SHARED, NOT_SHARED, NOT_SHARED, NOT_SHARED};$/;"	kind:v	line:75
+g_atype	E:\upww\Topics\House\Libs\ExternalLib\groveboard.c	/^BYTE g_atype[] = {AN_TYPE, AN_TYPE, AN_TYPE, AN_TYPE};$/;"	kind:v	line:74
+g_d1	E:\upww\Topics\House\Libs\ExternalLib\groveboard.c	/^BYTE g_d1[] = { p2, p5, p10, p12};$/;"	kind:v	line:60
+g_d2	E:\upww\Topics\House\Libs\ExternalLib\groveboard.c	/^BYTE g_d2[] = { p4, p6, p11, p14};	$/;"	kind:v	line:61
+g_dshared	E:\upww\Topics\House\Libs\ExternalLib\groveboard.c	/^BYTE g_dshared[] = { NOT_SHARED, NOT_SHARED, NOT_SHARED, NOT_SHARED, NOT_SHARED, NOT_SHARED};$/;"	kind:v	line:63
+g_dtype	E:\upww\Topics\House\Libs\ExternalLib\groveboard.c	/^BYTE g_dtype[] = { D5VR_TYPE, D5VR_TYPE, D5VR_TYPE, D5VR_TYPE, D5VR_TYPE, D3VR_TYPE};$/;"	kind:v	line:62
+get	E:\upww\Topics\House\Libs\ExternalLib\Include\grovelib.h	/^float get(void *, ...);$/;"	kind:p	line:64
+get	E:\upww\Topics\House\Libs\ExternalLib\grovelib.c	/^float get(void *self, ...)$/;"	kind:f	line:134
+get_	E:\upww\Topics\House\Libs\ExternalLib\Include\grovelib.h	/^	float (*get_)(void *,va_list *);$/;"	kind:m	line:75	struct:SensorClass	access:public
+i	E:\upww\Topics\House\taskFlyport.c	/^		int i;$/;"	kind:l	line:295
+i	E:\upww\Topics\House\taskFlyport.c	/^	int len=0,i=0,j=0,z=0;	 $/;"	kind:l	line:58
+i2cnext	E:\upww\Topics\House\Libs\ExternalLib\groveboard.c	/^	struct Interface *i2cnext;$/;"	kind:m	line:83	struct:Board	typeref:struct:Board::Interface	file:	access:public
+i2cstart	E:\upww\Topics\House\Libs\ExternalLib\groveboard.c	/^	struct Interface *i2cstart;$/;"	kind:m	line:82	struct:Board	typeref:struct:Board::Interface	file:	access:public
+inBuff	E:\upww\Topics\House\taskFlyport.c	/^char inBuff[1500];$/;"	kind:v	line:9
+inter	E:\upww\Topics\House\Libs\ExternalLib\analog_in.c	/^	struct Interface *inter;$/;"	kind:m	line:58	struct:An_i	typeref:struct:An_i::Interface	file:	access:public
+inter	E:\upww\Topics\House\Libs\ExternalLib\digital_io.c	/^	struct Interface *inter;$/;"	kind:m	line:58	struct:Dig_io	typeref:struct:Dig_io::Interface	file:	access:public
+isShared	E:\upww\Topics\House\Libs\ExternalLib\Include\groveinterfaces.h	/^	BYTE isShared;		\/\/	Pin sharing - Indicates if the pins of the ports are shared with other ports, like in Arduino UNO Grove shield$/;"	kind:m	line:91	struct:__anon1	access:public
+j	E:\upww\Topics\House\taskFlyport.c	/^	int len=0,i=0,j=0,z=0;	 $/;"	kind:l	line:58
+len	E:\upww\Topics\House\taskFlyport.c	/^	    int len = UARTBufferSize(1);$/;"	kind:l	line:30
+len	E:\upww\Topics\House\taskFlyport.c	/^	int len=0,i=0,j=0,z=0;	 $/;"	kind:l	line:58
+lenTemp	E:\upww\Topics\House\taskFlyport.c	/^int lenTemp = 0;$/;"	kind:v	line:11
+myPot	E:\upww\Topics\House\taskFlyport.c	/^	void *myPot = new(An_i);$/;"	kind:l	line:284
+myPot2	E:\upww\Topics\House\taskFlyport.c	/^	void *myPot2 = new(An_i);$/;"	kind:l	line:285
+new	E:\upww\Topics\House\Libs\ExternalLib\grovelib.c	/^void *new(const void *_class, ...)$/;"	kind:f	line:63
+new_board	E:\upww\Topics\House\Libs\ExternalLib\grovelib.c	/^static void *new_board(const void *,va_list ap);$/;"	kind:p	line:58	file:
+new_board	E:\upww\Topics\House\Libs\ExternalLib\grovelib.c	/^static void *new_board(const void *_class,va_list ap)$/;"	kind:f	line:159	file:
+new_sensor	E:\upww\Topics\House\Libs\ExternalLib\grovelib.c	/^static void *new_sensor(const void *,va_list ap);$/;"	kind:p	line:57	file:
+new_sensor	E:\upww\Topics\House\Libs\ExternalLib\grovelib.c	/^static void *new_sensor(const void *_class,va_list ap)$/;"	kind:f	line:181	file:
+next	E:\upww\Topics\House\Libs\ExternalLib\Include\groveboard.h	/^	struct Interface *next;$/;"	kind:m	line:69	struct:Interface	typeref:struct:Interface::Interface	access:public
+numErr	E:\upww\Topics\House\GSM_Events.c	/^	char numErr[10];$/;"	kind:l	line:73
+p	E:\upww\Topics\House\Libs\ExternalLib\groveboard.c	/^	struct Interface *p;$/;"	kind:l	line:133
+p	E:\upww\Topics\House\Libs\ExternalLib\groveboard.c	/^	struct Interface *p;$/;"	kind:l	line:171
+p	E:\upww\Topics\House\Libs\ExternalLib\groveboard.c	/^	struct Interface *p;$/;"	kind:l	line:229
+p	E:\upww\Topics\House\Libs\ExternalLib\groveboard.c	/^	struct Interface *p;$/;"	kind:l	line:276
+p	E:\upww\Topics\House\Libs\ExternalLib\grovelib.c	/^	void *p = calloc(1, class->size);$/;"	kind:l	line:162
+p	E:\upww\Topics\House\Libs\ExternalLib\grovelib.c	/^	void *p = calloc(1, class->size);$/;"	kind:l	line:184
+payload_1	E:\upww\Topics\House\taskFlyport.c	/^			char payload_1[50] ;\/\/= "entry.0.single=";$/;"	kind:l	line:139
+payload_2	E:\upww\Topics\House\taskFlyport.c	/^			char payload_2[50] ;\/\/= "&entry.1.single=";$/;"	kind:l	line:140
+payload_3	E:\upww\Topics\House\taskFlyport.c	/^			char payload_3[50] ;$/;"	kind:l	line:141
+payload_4	E:\upww\Topics\House\taskFlyport.c	/^			char payload_4[50] ;$/;"	kind:l	line:142
+phonenumber	E:\upww\Topics\House\taskFlyport.c	/^char phonenumber[25] = "+886935865528"; \/\/ Remember to use INTERNATIONAL PREFIX$/;"	kind:v	line:4
+port	E:\upww\Topics\House\Libs\ExternalLib\Include\groveboard.h	/^	GrovePort *port;$/;"	kind:m	line:68	struct:Interface	access:public
+pwm_duty	E:\upww\Topics\House\Libs\ExternalLib\digital_io.c	/^	float* pwm_duty;$/;"	kind:m	line:62	struct:Dig_io	file:	access:public
+pwm_frequency	E:\upww\Topics\House\Libs\ExternalLib\digital_io.c	/^	float* pwm_frequency;$/;"	kind:m	line:61	struct:Dig_io	file:	access:public
+pwm_num	E:\upww\Topics\House\Libs\ExternalLib\digital_io.c	/^	BYTE pwm_num;$/;"	kind:m	line:60	struct:Dig_io	file:	access:public
+readError	E:\upww\Topics\House\Libs\ExternalLib\Include\grovelib.h	/^unsigned char readError(void);$/;"	kind:p	line:65
+readError	E:\upww\Topics\House\Libs\ExternalLib\grovelib.c	/^unsigned char readError(void)$/;"	kind:f	line:152
+read_register	E:\upww\Topics\House\Libs\ExternalLib\i2c_devices.c	/^BYTE read_register(BYTE address,BYTE regist)$/;"	kind:f	line:68
+ret	E:\upww\Topics\House\Libs\ExternalLib\analog_in.c	/^	int ret = ADCVal(self->inter->port->Pin1);$/;"	kind:l	line:90
+ret	E:\upww\Topics\House\Libs\ExternalLib\digital_io.c	/^	int ret = IOGet(self->inter->port->Pin1);$/;"	kind:l	line:151
+self	E:\upww\Topics\House\Libs\ExternalLib\analog_in.c	/^	struct An_i *self = _self;$/;"	kind:l	line:63
+self	E:\upww\Topics\House\Libs\ExternalLib\analog_in.c	/^	struct An_i *self = _self;$/;"	kind:l	line:89
+self	E:\upww\Topics\House\Libs\ExternalLib\digital_io.c	/^	struct Dig_io *self = _self;$/;"	kind:l	line:120
+self	E:\upww\Topics\House\Libs\ExternalLib\digital_io.c	/^	struct Dig_io *self = _self;$/;"	kind:l	line:150
+self	E:\upww\Topics\House\Libs\ExternalLib\digital_io.c	/^	struct Dig_io *self = _self;$/;"	kind:l	line:68
+self	E:\upww\Topics\House\Libs\ExternalLib\groveboard.c	/^	struct Board *self = _board;$/;"	kind:l	line:132
+self	E:\upww\Topics\House\Libs\ExternalLib\groveboard.c	/^	struct Board *self = _board;$/;"	kind:l	line:170
+self	E:\upww\Topics\House\Libs\ExternalLib\groveboard.c	/^	struct Board *self = _board;$/;"	kind:l	line:228
+self	E:\upww\Topics\House\Libs\ExternalLib\groveboard.c	/^	struct Board *self = _board;$/;"	kind:l	line:275
+self	E:\upww\Topics\House\Libs\ExternalLib\groveboard.c	/^	struct Board *self = _self;$/;"	kind:l	line:119
+self	E:\upww\Topics\House\Libs\ExternalLib\grovelib.c	/^	struct SensorClass **self = _self;$/;"	kind:l	line:83
+sen	E:\upww\Topics\House\Libs\ExternalLib\grovelib.c	/^	const struct SensorClass **sen = sensor;$/;"	kind:l	line:100
+sendRequest	E:\upww\Topics\House\taskFlyport.c	/^BOOL sendRequest = FALSE;$/;"	kind:v	line:10
+sendgoogle	E:\upww\Topics\House\taskFlyport.c	/^void sendgoogle()$/;"	kind:f	line:54
+sendtext	E:\upww\Topics\House\taskFlyport.c	/^		char sendtext[100];$/;"	kind:l	line:33
+sensor	E:\upww\Topics\House\Libs\ExternalLib\analog_in.c	/^	struct An_i *sensor = _sensor;$/;"	kind:l	line:70
+sensor	E:\upww\Topics\House\Libs\ExternalLib\analog_in.c	/^	struct An_i *sensor = _sensor;$/;"	kind:l	line:80
+sensor	E:\upww\Topics\House\Libs\ExternalLib\digital_io.c	/^	struct Dig_io *sensor = _sensor;$/;"	kind:l	line:109
+sensor	E:\upww\Topics\House\Libs\ExternalLib\digital_io.c	/^	struct Dig_io *sensor = _sensor;$/;"	kind:l	line:93
+set	E:\upww\Topics\House\Libs\ExternalLib\Include\grovelib.h	/^int set(void *,...);$/;"	kind:p	line:63
+set	E:\upww\Topics\House\Libs\ExternalLib\grovelib.c	/^int set(void *self,...)$/;"	kind:f	line:124
+set_	E:\upww\Topics\House\Libs\ExternalLib\Include\grovelib.h	/^	int (*set_)(void *,va_list *);$/;"	kind:m	line:74	struct:SensorClass	access:public
+set_register	E:\upww\Topics\House\Libs\ExternalLib\i2c_devices.c	/^int set_register(BYTE address,BYTE regist, BYTE data)$/;"	kind:f	line:51
+size	E:\upww\Topics\House\Libs\ExternalLib\Include\grovelib.h	/^	size_t size; $/;"	kind:m	line:69	struct:SensorClass	access:public
+size	E:\upww\Topics\House\Libs\ExternalLib\Include\grovelib.h	/^	size_t size; $/;"	kind:m	line:80	struct:BoardClass	access:public
+smsRec	E:\upww\Topics\House\GSM_Events.c	/^	char smsRec[7];$/;"	kind:l	line:52
+smsTextBuff	E:\upww\Topics\House\taskFlyport.c	/^char smsTextBuff[20];\/\/ = " test ";$/;"	kind:v	line:5
+smsTextBuff2	E:\upww\Topics\House\taskFlyport.c	/^char smsTextBuff2[20];\/\/ = " test2 ";$/;"	kind:v	line:6
+sockTcp	E:\upww\Topics\House\taskFlyport.c	/^TCP_SOCKET sockTcp;$/;"	kind:v	line:8
+speed	E:\upww\Topics\House\Libs\ExternalLib\Include\groveboard.h	/^	int speed;$/;"	kind:m	line:70	struct:Interface	access:public
+start	E:\upww\Topics\House\Libs\ExternalLib\Include\grovelib.h	/^	void (*start) (const void *);$/;"	kind:m	line:84	struct:BoardClass	access:public
+state	E:\upww\Topics\House\Libs\ExternalLib\digital_io.c	/^	BYTE state = va_arg(*app, const BYTE);$/;"	kind:l	line:121
+tag	E:\upww\Topics\House\taskFlyport.c	/^int tag=0;$/;"	kind:v	line:21
+temp	E:\upww\Topics\House\taskFlyport.c	/^			char temp[3]={0};$/;"	kind:l	line:143
+tmpString	E:\upww\Topics\House\taskFlyport.c	/^			char tmpString[1024];$/;"	kind:l	line:138
+type	E:\upww\Topics\House\Libs\ExternalLib\digital_io.c	/^	BYTE type;$/;"	kind:m	line:59	struct:Dig_io	file:	access:public
+uartnext	E:\upww\Topics\House\Libs\ExternalLib\groveboard.c	/^	struct Interface *uartnext;$/;"	kind:m	line:89	struct:Board	typeref:struct:Board::Interface	file:	access:public
+uartstart	E:\upww\Topics\House\Libs\ExternalLib\groveboard.c	/^	struct Interface *uartstart;$/;"	kind:m	line:88	struct:Board	typeref:struct:Board::Interface	file:	access:public
+val	E:\upww\Topics\House\taskFlyport.c	/^double val;	$/;"	kind:v	line:13
+val2	E:\upww\Topics\House\taskFlyport.c	/^double val2;	$/;"	kind:v	line:16
+warning	E:\upww\Topics\House\taskFlyport.c	/^char warning[][20];$/;"	kind:v	line:20
+z	E:\upww\Topics\House\taskFlyport.c	/^	int len=0,i=0,j=0,z=0;	 $/;"	kind:l	line:58
